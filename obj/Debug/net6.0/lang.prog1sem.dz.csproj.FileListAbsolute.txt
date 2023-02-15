@@ -1,0 +1,15 @@
+C:\Users\huawei\Desktop\lang.prog1sem.dz\bin\Debug\net6.0\lang.prog1sem.dz.exe
+C:\Users\huawei\Desktop\lang.prog1sem.dz\bin\Debug\net6.0\lang.prog1sem.dz.deps.json
+C:\Users\huawei\Desktop\lang.prog1sem.dz\bin\Debug\net6.0\lang.prog1sem.dz.runtimeconfig.json
+C:\Users\huawei\Desktop\lang.prog1sem.dz\bin\Debug\net6.0\lang.prog1sem.dz.dll
+C:\Users\huawei\Desktop\lang.prog1sem.dz\bin\Debug\net6.0\lang.prog1sem.dz.pdb
+C:\Users\huawei\Desktop\lang.prog1sem.dz\obj\Debug\net6.0\lang.prog1sem.dz.csproj.AssemblyReference.cache
+C:\Users\huawei\Desktop\lang.prog1sem.dz\obj\Debug\net6.0\lang.prog1sem.dz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huawei\Desktop\lang.prog1sem.dz\obj\Debug\net6.0\lang.prog1sem.dz.AssemblyInfoInputs.cache
+C:\Users\huawei\Desktop\lang.prog1sem.dz\obj\Debug\net6.0\lang.prog1sem.dz.AssemblyInfo.cs
+C:\Users\huawei\Desktop\lang.prog1sem.dz\obj\Debug\net6.0\lang.prog1sem.dz.csproj.CoreCompileInputs.cache
+C:\Users\huawei\Desktop\lang.prog1sem.dz\obj\Debug\net6.0\lang.prog1sem.dz.dll
+C:\Users\huawei\Desktop\lang.prog1sem.dz\obj\Debug\net6.0\refint\lang.prog1sem.dz.dll
+C:\Users\huawei\Desktop\lang.prog1sem.dz\obj\Debug\net6.0\lang.prog1sem.dz.pdb
+C:\Users\huawei\Desktop\lang.prog1sem.dz\obj\Debug\net6.0\lang.prog1sem.dz.genruntimeconfig.cache
+C:\Users\huawei\Desktop\lang.prog1sem.dz\obj\Debug\net6.0\ref\lang.prog1sem.dz.dll

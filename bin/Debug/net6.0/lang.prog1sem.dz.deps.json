@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "lang.prog1sem.dz/1.0.0": {
+        "runtime": {
+          "lang.prog1sem.dz.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lang.prog1sem.dz/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
